@@ -2,7 +2,7 @@
   "name": "expenses-front",
   "version": "1.0.0",
   "description": "App for expenses and revenues control",
-  "author": "Javier Albadán",
+  "author": "Javier Albadán y sus colaboradores (Kennit Ruz y Wbeimar Logatto)",
   "private": true,
   "scripts": {
     "dev": "nuxt",
